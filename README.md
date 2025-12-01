@@ -16,7 +16,5 @@ Crafting efficient, scalable, and user-friendly software applications across ind
 2. Open `index.html` in your browser.
 3. Customize the content and styles as needed.
 
-## 📬 Contact
 
-For feedback or collaboration, feel free to reach out via GitHub or email.
 
