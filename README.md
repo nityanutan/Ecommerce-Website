@@ -4,7 +4,6 @@
 - HTML5
 - CSS3
 - Google Fonts
-![Landing Page Screenshot](assets/Image.png)
 
 ## ✍️ Author
 
